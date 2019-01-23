@@ -5,4 +5,7 @@
   
   Und noch irgendein Unfug
 */
-echo "<p>Hello World</p>";
+
+//echo "<p>Hello World</p>";
+
+alert("Hello World!");
